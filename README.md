@@ -16,9 +16,7 @@ The topology of joint electricity and natural gas system is shown in the figure 
 
 The formulation for the two-stage stochastic planning model is as following. Nomenclature is first presented.
 
-\usepackage[utf8]{inputenc}
-\usepackage{nomencl}
-\makenomenclature
+```math
 
 \renewcommand\nomgroup[1]{%
     \item[\bfseries
@@ -109,7 +107,7 @@ The formulation for the two-stage stochastic planning model is as following. Nom
 \nomenclature[I,04]{$z_{ij}^t$}{Binary expansion decision for transmission line candidates}
 \printnomenclature[0.6in]
 
-
+```
 
 
 
