@@ -1,6 +1,6 @@
 # Resilience_Planning_JPGM
 
-This repository stored scripts for resilience planning for joint power and gas system for an IEEE paper.
+This repository stored scripts for resilience planning for joint power and gas system for an IEEE paper (work in progress. An link will be updated when the paper is published).
 
 The Impact Comparison folder compares the impact on spatially correlated failures induced by extreme weather and climate events and uncorrelated failures in traditional 
 N-k contingency analysis. The model used is a one-stage (operation stage) deterministic optimization model for the basenetwork.
